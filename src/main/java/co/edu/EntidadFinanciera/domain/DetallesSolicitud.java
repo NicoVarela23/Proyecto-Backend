@@ -1,4 +1,4 @@
-package co.edu.EntidadFinanciera.domain;
+package co.edu.EntidadFinanciera.domain;//hola mundo
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
